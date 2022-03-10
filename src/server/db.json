@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "cost": 10,
+      "currency": "$",
+      "count": 0,
+      "description": "New model notebook"
+    },
+    {
+      "id": 2,
+      "name": "Microphone",
+      "cost": 10,
+      "currency": "€",
+      "count": 0,
+      "description": "New model microphone"
+    },
+    {
+      "id": 3,
+      "name": "Camera",
+      "cost": 10,
+      "currency": "£",
+      "count": 0,
+      "description": "New model camera"
+    },
+    {
+      "description": "asd",
+      "currency": "€",
+      "cost": 123,
+      "name": "asd",
+      "id": 4
+    },
+    {
+      "description": "asdasd",
+      "currency": "$",
+      "cost": 123,
+      "name": "asd",
+      "id": 5
+    },
+    {
+      "description": "Test",
+      "currency": "$",
+      "cost": "1",
+      "name": "Hello",
+      "id": 6
+    }
+  ]
+}

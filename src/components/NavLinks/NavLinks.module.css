@@ -1,0 +1,21 @@
+a {
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: unset;
+    color: black;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+a:hover {
+    color: initial;
+    border-color: white;
+}
+
+.baseNavLinks {
+    height: 75px;
+    background: lightgray;
+    border-radius: 5px;
+    padding: 0 25px;
+}

@@ -1,0 +1,18 @@
+.baseContainer {
+    width: 500px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.contentBaseContainer {
+    width: inherit;
+    padding: 5px;
+}
+
+.contentContainer {
+    justify-content: space-around;
+    width: 100%;
+}
+

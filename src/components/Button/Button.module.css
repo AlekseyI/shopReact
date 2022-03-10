@@ -1,0 +1,7 @@
+.baseButton {
+    cursor: pointer;
+    background: transparent;
+    border: 3px solid;
+    border-radius: 5px;
+    font-size: large;
+}
